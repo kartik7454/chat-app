@@ -1,4 +1,4 @@
-# Friendzone link-https://spark-starter-kit-main.vercel.app/home
+# Friendzone | link-https://spark-starter-kit-main.vercel.app/home
 
 ## Project Summary
 friend zone is a real time chatting app
